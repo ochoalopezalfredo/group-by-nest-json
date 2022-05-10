@@ -1,0 +1,1976 @@
+[
+  {
+    "eventCategory": "Component Failure",
+    "eventCategoryDetail": "Mechanical Component Failure",
+    "eventClassification": "Not Applicable",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Component Failure",
+    "eventCategoryDetail": "Electrical Component Failure",
+    "eventClassification": "Not Applicable",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Component Failure",
+    "eventCategoryDetail": "Equipment Readiness",
+    "eventClassification": "Not Applicable",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Engineering Support",
+    "eventCategoryDetail": "P&C Engineering",
+    "eventClassification": "Design Error",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Engineering Support",
+    "eventCategoryDetail": "P&C Engineering",
+    "eventClassification": "Drawing Error",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Engineering Support",
+    "eventCategoryDetail": "P&C Engineering",
+    "eventClassification": "Setting Error",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Engineering Support",
+    "eventCategoryDetail": "P&C Engineering",
+    "eventClassification": "Materials",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Engineering Support",
+    "eventCategoryDetail": "P&C Engineering",
+    "eventClassification": "SCADA Error",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Engineering Support",
+    "eventCategoryDetail": "P&C Engineering",
+    "eventClassification": "P&C Engineering Other",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Engineering Support",
+    "eventCategoryDetail": "Line Engineering",
+    "eventClassification": "Design Error",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Engineering Support",
+    "eventCategoryDetail": "Line Engineering",
+    "eventClassification": "Materials",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Engineering Support",
+    "eventCategoryDetail": "Line Engineering",
+    "eventClassification": "Permitting/Right Of Way",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Engineering Support",
+    "eventCategoryDetail": "Line Engineering",
+    "eventClassification": "Line Engineering Other",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Engineering Support",
+    "eventCategoryDetail": "Substation Engineering",
+    "eventClassification": "Site Civil Design Error",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Engineering Support",
+    "eventCategoryDetail": "Substation Engineering",
+    "eventClassification": "Electrical/Physical Design Error",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Engineering Support",
+    "eventCategoryDetail": "Substation Engineering",
+    "eventClassification": "Materials",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Engineering Support",
+    "eventCategoryDetail": "Substation Engineering",
+    "eventClassification": "Permitting",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Engineering Support",
+    "eventCategoryDetail": "Substation Engineering",
+    "eventClassification": "Substation Engineering Other",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Improvement Plan",
+    "eventCategoryDetail": "Safety",
+    "eventClassification": "Not Applicable",
+    "eventType": "Good Catch"
+  },
+  {
+    "eventCategory": "Improvement Plan",
+    "eventCategoryDetail": "Operational",
+    "eventClassification": "Not Applicable",
+    "eventType": "Good Catch"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Grounding",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Unintentional Equipment Operation",
+    "eventType": "Equipment Operation"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Equipment Testing",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Equipment Readiness",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Equipment Removal",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Equipment Replacement",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Phasing",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Equipment Repair",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Underground Locates",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Electrical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Mechanical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Tool Failure/Misuse",
+    "eventType": "Tool Failure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Unintentional/Accidental",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Grounding",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Unintentional Equipment Operation",
+    "eventType": "Equipment Operation"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Equipment Testing",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Equipment Readiness",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Equipment Removal",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Equipment Replacement",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Phasing",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Equipment Repair",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Underground Locates",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Electrical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Mechanical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Tool Failure/Misuse",
+    "eventType": "Tool Failure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Unintentional/Accidental",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Grounding",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Unintentional Equipment Operation",
+    "eventType": "Equipment Operation"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Equipment Testing",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Equipment Readiness",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Equipment Removal",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Equipment Replacement",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Phasing",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Equipment Repair",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Underground Locates",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Electrical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Mechanical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Tool Failure/Misuse",
+    "eventType": "Tool Failure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Unintentional/Accidental",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Grounding",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Unintentional Equipment Operation",
+    "eventType": "Equipment Operation"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Equipment Testing",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Equipment Readiness",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Equipment Removal",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Equipment Replacement",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Phasing",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Equipment Repair",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Underground Locates",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Electrical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Mechanical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Tool Failure/Misuse",
+    "eventType": "Tool Failure"
+  },
+  {
+    "eventCategory": "Substation Maintenance",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Unintentional/Accidental",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Grounding",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Unintentional Equipment Operation",
+    "eventType": "Equipment Operation"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Equipment Readiness",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Equipment Repair",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Equipment Removal",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Equipment Replacement",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Underground Locates",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Surveying Errors",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Electrical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Mechanical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Tool Failure/Misuse",
+    "eventType": "Tool Failure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Unintentional/Accidental",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Grounding",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Unintentional Equipment Operation",
+    "eventType": "Equipment Operation"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Equipment Readiness",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Equipment Repair",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Equipment Removal",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Equipment Replacement",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Underground Locates",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Surveying Errors",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Electrical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Mechanical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Tool Failure/Misuse",
+    "eventType": "Tool Failure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Unintentional/Accidental",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Grounding",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Unintentional Equipment Operation",
+    "eventType": "Equipment Operation"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Equipment Readiness",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Equipment Repair",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Equipment Removal",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Equipment Replacement",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Underground Locates",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Surveying Errors",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Electrical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Mechanical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Tool Failure/Misuse",
+    "eventType": "Tool Failure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Unintentional/Accidental",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Grounding",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Unintentional Equipment Operation",
+    "eventType": "Equipment Operation"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Equipment Readiness",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Equipment Repair",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Equipment Removal",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Equipment Replacement",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Underground Locates",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Surveying Errors",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Electrical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Mechanical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Tool Failure/Misuse",
+    "eventType": "Tool Failure"
+  },
+  {
+    "eventCategory": "Substation Construction",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Unintentional/Accidental",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Grounding",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Unintentional Equipment Operation",
+    "eventType": "Equipment Operation"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Phasing",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Equipment Readiness",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Unintentional Line Operation",
+    "eventType": "Equipment Operation"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Equipment Repair",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Equipment Removal",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Equipment Replacement",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Underground Locates",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Electrical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Mechanical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Tool Failure/Misuse",
+    "eventType": "Tool Failure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Corrective Maintenance",
+    "eventClassification": "Unintentional/Accidental",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Grounding",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Unintentional Equipment Operation",
+    "eventType": "Equipment Operation"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Phasing",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Equipment Readiness",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Unintentional Line Operation",
+    "eventType": "Equipment Operation"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Equipment Repair",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Equipment Removal",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Equipment Replacement",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Underground Locates",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Electrical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Mechanical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Tool Failure/Misuse",
+    "eventType": "Tool Failure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Preventative Maintenance",
+    "eventClassification": "Unintentional/Accidental",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Grounding",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Unintentional Equipment Operation",
+    "eventType": "Equipment Operation"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Phasing",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Equipment Readiness",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Unintentional Line Operation",
+    "eventType": "Equipment Operation"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Equipment Repair",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Equipment Removal",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Equipment Replacement",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Underground Locates",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Electrical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Mechanical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Tool Failure/Misuse",
+    "eventType": "Tool Failure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Capital Project",
+    "eventClassification": "Unintentional/Accidental",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Grounding",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Unintentional Equipment Operation",
+    "eventType": "Equipment Operation"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Phasing",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Equipment Readiness",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Unintentional Line Operation",
+    "eventType": "Equipment Operation"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Equipment Repair",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Equipment Removal",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Equipment Replacement",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Underground Locates",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Electrical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Mechanical Component Failure",
+    "eventType": "Equipment Failure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Tool Failure/Misuse",
+    "eventType": "Tool Failure"
+  },
+  {
+    "eventCategory": "T&D Line",
+    "eventCategoryDetail": "Component Failure",
+    "eventClassification": "Unintentional/Accidental",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Material Support/Contract Svcs",
+    "eventCategoryDetail": "Procurement",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Material Support/Contract Svcs",
+    "eventCategoryDetail": "Receipt Inspection",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Material Support/Contract Svcs",
+    "eventCategoryDetail": "Material Issue/Storage",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Material Support/Contract Svcs",
+    "eventCategoryDetail": "Vendor Activities",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Material Support/Contract Svcs",
+    "eventCategoryDetail": "Shipping",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Outage",
+    "eventCategoryDetail": "Transmission/Distribution Electric Outage",
+    "eventClassification": "Feeder",
+    "eventType": "Outage / Interruption"
+  },
+  {
+    "eventCategory": "Outage",
+    "eventCategoryDetail": "Transmission/Distribution Electric Outage",
+    "eventClassification": "Fused Primary",
+    "eventType": "Outage / Interruption"
+  },
+  {
+    "eventCategory": "Outage",
+    "eventCategoryDetail": "Transmission/Distribution Electric Outage",
+    "eventClassification": "Secondary Service",
+    "eventType": "Outage / Interruption"
+  },
+  {
+    "eventCategory": "Outage",
+    "eventCategoryDetail": "Transmission/Distribution Electric Outage",
+    "eventClassification": "Substation",
+    "eventType": "Outage / Interruption"
+  },
+  {
+    "eventCategory": "Outage",
+    "eventCategoryDetail": "Transmission/Distribution Electric Outage",
+    "eventClassification": "Transformer",
+    "eventType": "Outage / Interruption"
+  },
+  {
+    "eventCategory": "Outage",
+    "eventCategoryDetail": "Transmission/Distribution Electric Outage",
+    "eventClassification": "Transmission Line",
+    "eventType": "Outage / Interruption"
+  },
+  {
+    "eventCategory": "Outage",
+    "eventCategoryDetail": "Transmission/Distribution Electric Outage",
+    "eventClassification": "Other",
+    "eventType": "Outage / Interruption"
+  },
+  {
+    "eventCategory": "Outage",
+    "eventCategoryDetail": "Outage",
+    "eventClassification": "Not Applicable",
+    "eventType": "Outage / Interruption"
+  },
+  {
+    "eventCategory": "Procedure/Document Quality",
+    "eventCategoryDetail": "Admin Procedure",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Procedure/Document Quality",
+    "eventCategoryDetail": "Tech Procedure",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Procedure/Document Quality",
+    "eventCategoryDetail": "Corp Procedure",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Procedure/Document Quality",
+    "eventCategoryDetail": "Other Documents",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Projects",
+    "eventCategoryDetail": "Cost Tracking",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Projects",
+    "eventCategoryDetail": "Estimating",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Projects",
+    "eventCategoryDetail": "Internal (Duke)",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Projects",
+    "eventCategoryDetail": "Schedule",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Projects",
+    "eventCategoryDetail": "Scope",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Projects",
+    "eventCategoryDetail": "Quality",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Property Damage",
+    "eventCategoryDetail": "Customer",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Property Damage",
+    "eventCategoryDetail": "Utility",
+    "eventClassification": "Duke Utility",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Property Damage",
+    "eventCategoryDetail": "Utility",
+    "eventClassification": "Non-Duke Utility",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Operational Technology",
+    "eventCategoryDetail": "Unplanned Loss of Redundancy",
+    "eventClassification": "Network/Firewall/GridWAN",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Operational Technology",
+    "eventCategoryDetail": "Unplanned Loss of Redundancy",
+    "eventClassification": "Server/Workstation/CIOPS",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Operational Technology",
+    "eventCategoryDetail": "Significant Loss of Connections to RTUs",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Operational Technology",
+    "eventCategoryDetail": "Electronic Mapboard",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Operational Technology",
+    "eventCategoryDetail": "EMS Application Issue",
+    "eventClassification": "RTNET/RTCA",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Operational Technology",
+    "eventCategoryDetail": "EMS Application Issue",
+    "eventClassification": "Other",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Operational Technology",
+    "eventCategoryDetail": "ICCP issue",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Operational Technology",
+    "eventCategoryDetail": "Other",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Security/Enterprise Security",
+    "eventCategoryDetail": "Regulatory Compliance events and issues",
+    "eventClassification": "Access Controls",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Security/Enterprise Security",
+    "eventCategoryDetail": "Regulatory Compliance events and issues",
+    "eventClassification": "Badge or Badging",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Security/Enterprise Security",
+    "eventCategoryDetail": "Regulatory Compliance events and issues",
+    "eventClassification": "CIRT",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Security/Enterprise Security",
+    "eventCategoryDetail": "Regulatory Compliance events and issues",
+    "eventClassification": "Cybersecurity Policies, Tools and Performance",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Security/Enterprise Security",
+    "eventCategoryDetail": "Regulatory Compliance events and issues",
+    "eventClassification": "Hostile Actions or Assault",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Security/Enterprise Security",
+    "eventCategoryDetail": "Regulatory Compliance events and issues",
+    "eventClassification": "Keys and Lock",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Security/Enterprise Security",
+    "eventCategoryDetail": "Regulatory Compliance events and issues",
+    "eventClassification": "Law Enforcement",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Security/Enterprise Security",
+    "eventCategoryDetail": "Regulatory Compliance events and issues",
+    "eventClassification": "NERC CIP",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "Security/Enterprise Security",
+    "eventCategoryDetail": "Regulatory Compliance events and issues",
+    "eventClassification": "Security",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Security/Enterprise Security",
+    "eventCategoryDetail": "Regulatory Compliance events and issues",
+    "eventClassification": "Security Gates and Fences",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Security/Enterprise Security",
+    "eventCategoryDetail": "Regulatory Compliance events and issues",
+    "eventClassification": "Security Guard",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Security/Enterprise Security",
+    "eventCategoryDetail": "Regulatory Compliance events and issues",
+    "eventClassification": "Security Threat",
+    "eventType": "Safety"
+  },
+  {
+    "eventCategory": "Switching & Tagging",
+    "eventCategoryDetail": "Wrong Component Operated",
+    "eventClassification": "Control Room Operator Error",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Switching & Tagging",
+    "eventCategoryDetail": "Wrong Component Operated",
+    "eventClassification": "Field Error",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Switching & Tagging",
+    "eventCategoryDetail": "Wrong Component Operated",
+    "eventClassification": "Engineered Design",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Switching & Tagging",
+    "eventCategoryDetail": "Switching Order Incorrect",
+    "eventClassification": "Missing  Clearance Point",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Switching & Tagging",
+    "eventCategoryDetail": "Switching Order Incorrect",
+    "eventClassification": "Referenced Incorrect Point",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Switching & Tagging",
+    "eventCategoryDetail": "Switching Orders Not Properly Followed",
+    "eventClassification": "Improper Sequence",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Switching & Tagging",
+    "eventCategoryDetail": "Switching Orders Not Properly Followed",
+    "eventClassification": "Missed Step",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Switching & Tagging",
+    "eventCategoryDetail": "Clearance",
+    "eventClassification": "Clearance Not Issued/Released (Field Error)",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Switching & Tagging",
+    "eventCategoryDetail": "Clearance",
+    "eventClassification": "Clearance Not Issued/Released (Operator Error)",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Switching & Tagging",
+    "eventCategoryDetail": "Clearance",
+    "eventClassification": "Control Center TAG Did Not Match Field Tag",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Switching & Tagging",
+    "eventCategoryDetail": "Clearance",
+    "eventClassification": "Clearance Tag Not Placed",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Switching & Tagging",
+    "eventCategoryDetail": "Other",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Work Management",
+    "eventCategoryDetail": "Improper Switching Request",
+    "eventClassification": "Wrong Component Requested",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Work Management",
+    "eventCategoryDetail": "Improper Switching Request",
+    "eventClassification": "Improper Boundary Requested",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Work Management",
+    "eventCategoryDetail": "Improper Switching Request",
+    "eventClassification": "Proper Notifications Not Made",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Work Management",
+    "eventCategoryDetail": "Improper Switching Request",
+    "eventClassification": "Clearance Not Canceled When No Longer Needed",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Work Management",
+    "eventCategoryDetail": "Planning",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Work Management",
+    "eventCategoryDetail": "Scheduling",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Work Management",
+    "eventCategoryDetail": "Coordination Of Activities",
+    "eventClassification": "Not Applicable",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Relay C&M",
+    "eventCategoryDetail": "Unintentional Trip",
+    "eventClassification": "Wrong Relay",
+    "eventType": "Equipment Operation"
+  },
+  {
+    "eventCategory": "Relay C&M",
+    "eventCategoryDetail": "Unintentional Trip",
+    "eventClassification": "Component",
+    "eventType": "Equipment Operation"
+  },
+  {
+    "eventCategory": "Relay C&M",
+    "eventCategoryDetail": "Unintentional Trip",
+    "eventClassification": "Jumper Incorrect Point",
+    "eventType": "Equipment Operation"
+  },
+  {
+    "eventCategory": "Relay C&M",
+    "eventCategoryDetail": "Unintentional Trip",
+    "eventClassification": "Trip Not Isolated Correctly",
+    "eventType": "Equipment Operation"
+  },
+  {
+    "eventCategory": "Relay C&M",
+    "eventCategoryDetail": "Incorrect Settings",
+    "eventClassification": "Aspen",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Relay C&M",
+    "eventCategoryDetail": "Incorrect Settings",
+    "eventClassification": "Applied Incorrect",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Relay C&M",
+    "eventCategoryDetail": "Incorrect Prints",
+    "eventClassification": "Wrong Prints Used",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Relay C&M",
+    "eventCategoryDetail": "Incorrect Prints",
+    "eventClassification": "Print Incorrect",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Relay C&M",
+    "eventCategoryDetail": "Incorrect Prints",
+    "eventClassification": "Not Used",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Relay C&M",
+    "eventCategoryDetail": "HP Toolkit",
+    "eventClassification": "Used Improperly",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Relay C&M",
+    "eventCategoryDetail": "HP Toolkit",
+    "eventClassification": "Not Used",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Relay C&M",
+    "eventCategoryDetail": "Relay Guidance Procedure",
+    "eventClassification": "Not Used",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Relay C&M",
+    "eventCategoryDetail": "Relay Guidance Procedure",
+    "eventClassification": "Place Keeping",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Relay C&M",
+    "eventCategoryDetail": "Relay Guidance Procedure",
+    "eventClassification": "Incorrect/Inaccurate",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "Relay C&M",
+    "eventCategoryDetail": "No Trip/Delayed Trip",
+    "eventClassification": "Left Device Blocked",
+    "eventType": "Work Process /Procedure"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(BAL) Resource and Demand Balancing",
+    "eventClassification": "Real Power Balancing Control Performance (BAL-001)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(BAL) Resource and Demand Balancing",
+    "eventClassification": "Distrb Cntrl Contgncy Resrv for Bal Cont (BAL-002)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(BAL) Resource and Demand Balancing",
+    "eventClassification": "Freq Resp & Freq Bias Setting BAL-003",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(BAL) Resource and Demand Balancing",
+    "eventClassification": "Automatic Generation Control (BAL-005)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(BAL) Resource and Demand Balancing",
+    "eventClassification": "Plan Resrce Adqcy Analysis Assmnt & Doc BAL-502-RF",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(CIP) Physical Security",
+    "eventClassification": "Physical Security (CIP-014)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(COM) Communications",
+    "eventClassification": "Communications (COM-001)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(COM) Communications",
+    "eventClassification": "Op Personnel Comm Protocols COM-002",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(EOP) Emergency Preparedness and Operations",
+    "eventClassification": "Event Reporting (EOP-004)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(EOP) Emergency Preparedness and Operations",
+    "eventClassification": "Sys Restor from Blackstart Resources EOP-005",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(EOP) Emergency Preparedness and Operations",
+    "eventClassification": "System Restoration Coordination (EOP-006)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(EOP) Emergency Preparedness and Operations",
+    "eventClassification": "Loss of Control Center Functionality (EOP-008)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(EOP) Emergency Preparedness and Operations",
+    "eventClassification": "Geomagnetic Disturbance Operations (EOP-010)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(EOP) Emergency Preparedness and Operations",
+    "eventClassification": "Emergency Operations (EOP-011)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(FAC) Facilities Design, Connections, and Maintenance",
+    "eventClassification": "Facility Interconnection Requirements (FAC-001)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(FAC) Facilities Design, Connections, and Maintenance",
+    "eventClassification": "Facility Interconnection Studies (FAC-002)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(FAC) Facilities Design, Connections, and Maintenance",
+    "eventClassification": "Transmission Vegetation Management (FAC-003)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(FAC) Facilities Design, Connections, and Maintenance",
+    "eventClassification": "Facility Ratings (FAC-008)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(FAC) Facilities Design, Connections, and Maintenance",
+    "eventClassification": "Sys Op Limits Method for Plan Horizon FAC-010",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(FAC) Facilities Design, Connections, and Maintenance",
+    "eventClassification": "Sys Op Limits Methodology for Ops Horizon FAC-011",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(FAC) Facilities Design, Connections, and Maintenance",
+    "eventClassification": "Tx Cap for Near-Term Trans Plann Horizon FAC-013",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(FAC) Facilities Design, Connections, and Maintenance",
+    "eventClassification": "Estab & Comm Sys Op Limits FAC-014",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(INT) Interchange Scheduling and Coordination",
+    "eventClassification": "Dynamic Transfers (INT-004)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(INT) Interchange Scheduling and Coordination",
+    "eventClassification": "Evaluation of Interchange Transactions (INT-006)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(INT) Interchange Scheduling and Coordination",
+    "eventClassification": "Implementation of Interchange (INT-009)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(INT) Interchange Scheduling and Coordination",
+    "eventClassification": "Interchange Init & Mod for Reliability INT-010",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(IRO) Interconnection Reliability Operations and Coordination",
+    "eventClassification": "Reliability Coord & Responsibility IRO-001",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(IRO) Interconnection Reliability Operations and Coordination",
+    "eventClassification": "Reliability Coord & Monitor & Analysis IRO-002",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(IRO) Interconnection Reliability Operations and Coordination",
+    "eventClassification": "Rel Coord & Trans Loading Relief TLR IRO-006",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(IRO) Interconnection Reliability Operations and Coordination",
+    "eventClassification": "Tx Load Rel Proc for East Intercon IRO-006-EAST",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(IRO) Interconnection Reliability Operations and Coordination",
+    "eventClassification": "Rel Coord Op Analys & Real-time Assmnts IRO-008",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(IRO) Interconnection Reliability Operations and Coordination",
+    "eventClassification": "Rel Coord Actions to Op w/in IROLs IRO-009",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(IRO) Interconnection Reliability Operations and Coordination",
+    "eventClassification": "Reliability Coord Data Spec & Collection IRO-010",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(IRO) Interconnection Reliability Operations and Coordination",
+    "eventClassification": "Coord Among Reliability Coord IRO-014",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(IRO) Interconnection Reliability Operations and Coordination",
+    "eventClassification": "Outage Coordination (IRO-017)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(MOD) Modeling, Data, and Analysis",
+    "eventClassification": "Verif & Data of Gen Real & VAR Cond VAR MOD-025",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(MOD) Modeling, Data, and Analysis",
+    "eventClassification": "Gen Excit Cntrl Sys or Plant Volt/Var MOD-026",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(MOD) Modeling, Data, and Analysis",
+    "eventClassification": "Turb/Gov & Load Cntrl or Act Pwr/Freq MOD-027",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(MOD) Modeling, Data, and Analysis",
+    "eventClassification": "Area Interchange Methodology (MOD-028)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(MOD) Modeling, Data, and Analysis",
+    "eventClassification": "Rated System Path Methodology (MOD-029)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(MOD) Modeling, Data, and Analysis",
+    "eventClassification": "Flowgate Methodology (MOD-030)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(MOD) Modeling, Data, and Analysis",
+    "eventClassification": "Demand and Energy Data (MOD-031)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(MOD) Modeling, Data, and Analysis",
+    "eventClassification": "Data for Pwr Sys Modeling & Analysis MOD-032",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(MOD) Modeling, Data, and Analysis",
+    "eventClassification": "Stdy-State & Dyn Sys Model Valid MOD-033",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(NUC) Nuclear",
+    "eventClassification": "Nuclear Plant Interface Coordination (NUC-001)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(PER) Personnel Performance, Training, and Qualifications",
+    "eventClassification": "Operating Personnel Credentials (PER-003)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(PER) Personnel Performance, Training, and Qualifications",
+    "eventClassification": "Operations Personnel Training (PER-005)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(PRC) Protection and Control",
+    "eventClassification": "Disturb Monitor & Report Reqrmnts PRC-002",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(PRC) Protection and Control",
+    "eventClassification": "Prot Sys Misop ID & Correction PRC-004",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(PRC) Protection and Control",
+    "eventClassification": "Prot Sys Auto Reclos & Sud Press PRC-005",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(PRC) Protection and Control",
+    "eventClassification": "Automatic Underfrequency Load Shedding (PRC-006)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(PRC) Protection and Control",
+    "eventClassification": "Auto UF Load Shed Reqmnts PRC-006-SERC",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(PRC) Protection and Control",
+    "eventClassification": "Doc of UF Load Shed Equip Maint Prgm PRC-008",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(PRC) Protection and Control",
+    "eventClassification": "Gen Unit or Plant Cap, Volt Reg & Prot PRC-019",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(PRC) Protection and Control",
+    "eventClassification": "Transmission Relay Loadability (PRC-023)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(PRC) Protection and Control",
+    "eventClassification": "Gen Freq & Volt Prot Relay Settings PRC-024",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(PRC) Protection and Control",
+    "eventClassification": "Generator Relay Loadability (PRC-025)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(PRC) Protection and Control",
+    "eventClassification": "Relay Perf During Stable Pwr Swings PRC-026",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(PRC) Protection and Control",
+    "eventClassification": "Coord of Protn STS for Perf During Faults PRC-027",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(TOP) Transmission Operations",
+    "eventClassification": "Transmission Operations (TOP-001)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(TOP) Transmission Operations",
+    "eventClassification": "Operations Planning (TOP-002)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(TOP) Transmission Operations",
+    "eventClassification": "Operational Reliability Data (TOP-003)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(TPL) Transmission Planning",
+    "eventClassification": "Tx Sys Plan Perform Requirmnts TPL-001",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(TPL) Transmission Planning",
+    "eventClassification": "Tx Sys Perfor Geomag Disturb Events TPL-007",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Operations & Planning (O&P)",
+    "eventCategoryDetail": "(VAR) Voltage and Reactive",
+    "eventClassification": "Voltage and Reactive Control (VAR-001)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Critical Infrastructure Protection (CIP)",
+    "eventCategoryDetail": "Cyber Security",
+    "eventClassification": "BES Cyber System Categorization (CIP-002)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Critical Infrastructure Protection (CIP)",
+    "eventCategoryDetail": "Cyber Security",
+    "eventClassification": "Security Management Controls (CIP-003)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Critical Infrastructure Protection (CIP)",
+    "eventCategoryDetail": "Cyber Security",
+    "eventClassification": "Personnel & Training (CIP-004)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Critical Infrastructure Protection (CIP)",
+    "eventCategoryDetail": "Cyber Security",
+    "eventClassification": "Electronic Security Perimeter(s) (CIP-005)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Critical Infrastructure Protection (CIP)",
+    "eventCategoryDetail": "Cyber Security",
+    "eventClassification": "Physical Security of BES Cyber Systems (CIP-006)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Critical Infrastructure Protection (CIP)",
+    "eventCategoryDetail": "Cyber Security",
+    "eventClassification": "System Security Management (CIP-007)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Critical Infrastructure Protection (CIP)",
+    "eventCategoryDetail": "Cyber Security",
+    "eventClassification": "Incident Reporting and Response Planning (CIP-008)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Critical Infrastructure Protection (CIP)",
+    "eventCategoryDetail": "Cyber Security",
+    "eventClassification": "Recovery Plans for BES Cyber Systems (CIP-009)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Critical Infrastructure Protection (CIP)",
+    "eventCategoryDetail": "Cyber Security",
+    "eventClassification": "Config Change Mgmnt & Vuln Assmnts CIP-010",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Critical Infrastructure Protection (CIP)",
+    "eventCategoryDetail": "Cyber Security",
+    "eventClassification": "Information Protection (CIP-011)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Critical Infrastructure Protection (CIP)",
+    "eventCategoryDetail": "Cyber Security",
+    "eventClassification": "Communnications Between Control Centers (CIP-012)",
+    "eventType": "NERC Compliance"
+  },
+  {
+    "eventCategory": "NERC Compliance Critical Infrastructure Protection (CIP)",
+    "eventCategoryDetail": "Cyber Security",
+    "eventClassification": "Cybersecurity - SC Risk Management (CIP-013)",
+    "eventType": "NERC Compliance"
+  }
+]

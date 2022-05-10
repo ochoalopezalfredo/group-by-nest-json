@@ -1,0 +1,282 @@
+[
+  {
+    "causeCodeDetail": "Design output not correct",
+    "causeCode": "Design Output LTA",
+    "causeCodeCategory": "Design / Engineering"
+  },
+  {
+    "causeCodeDetail": "Design input not addressed in design output",
+    "causeCode": "Design Output LTA",
+    "causeCodeCategory": "Design / Engineering"
+  },
+  {
+    "causeCodeDetail": "Drawing, specification, or data error",
+    "causeCode": "Design Output LTA",
+    "causeCodeCategory": "Design / Engineering"
+  },
+  {
+    "causeCodeDetail": "Error in equipment or material selection",
+    "causeCode": "Design Output LTA",
+    "causeCodeCategory": "Design / Engineering"
+  },
+  {
+    "causeCodeDetail": "Design/documentation not up to date",
+    "causeCode": "Design / Documentation LTA",
+    "causeCodeCategory": "Design / Engineering"
+  },
+  {
+    "causeCodeDetail": "Independent review of design/documentation LTA",
+    "causeCode": "Design Verification / Installation Verification LTA",
+    "causeCodeCategory": "Design / Engineering"
+  },
+  {
+    "causeCodeDetail": "Testing of design/installation LTA",
+    "causeCode": "Design Verification / Installation Verification LTA",
+    "causeCodeCategory": "Design / Engineering"
+  },
+  {
+    "causeCodeDetail": "Independent inspection of design/installation LTA",
+    "causeCode": "Design Verification / Installation Verification LTA",
+    "causeCodeCategory": "Design / Engineering"
+  },
+  {
+    "causeCodeDetail": "Acceptance of design/installation LTA",
+    "causeCode": "Design Verification / Installation Verification LTA",
+    "causeCodeCategory": "Design / Engineering"
+  },
+  {
+    "causeCodeDetail": "Calibration LTA",
+    "causeCode": "Calibrations for Instruments LTA",
+    "causeCodeCategory": "Equipment / Material"
+  },
+  {
+    "causeCodeDetail": "Equipment found outside acceptance criteria",
+    "causeCode": "Calibrations for Instruments LTA",
+    "causeCodeCategory": "Equipment / Material"
+  },
+  {
+    "causeCodeDetail": "Preventative maintenance for equipment LTA",
+    "causeCode": "Periodic / Corrective Maintenance LTA",
+    "causeCodeCategory": "Equipment / Material"
+  },
+  {
+    "causeCodeDetail": "Inspection/testing LTA",
+    "causeCode": "Inspection Testing LTA",
+    "causeCodeCategory": "Equipment / Material"
+  },
+  {
+    "causeCodeDetail": "Post-maintenance / post-modification testing LTA",
+    "causeCode": "Inspection Testing LTA",
+    "causeCodeCategory": "Equipment / Material"
+  },
+  {
+    "causeCodeDetail": "Material handling LTA",
+    "causeCode": "Material Control LTA",
+    "causeCodeCategory": "Equipment / Material"
+  },
+  {
+    "causeCodeDetail": "Material storage LTA",
+    "causeCode": "Material Control LTA",
+    "causeCodeCategory": "Equipment / Material"
+  },
+  {
+    "causeCodeDetail": "Material shipping LTA",
+    "causeCode": "Material Control LTA",
+    "causeCodeCategory": "Equipment / Material"
+  },
+  {
+    "causeCodeDetail": "Unauthorized material substitution",
+    "causeCode": "Material Control LTA",
+    "causeCodeCategory": "Equipment / Material"
+  },
+  {
+    "causeCodeDetail": "Marking/labeling LTA",
+    "causeCode": "Material Control LTA",
+    "causeCodeCategory": "Equipment / Material"
+  },
+  {
+    "causeCodeDetail": "Control of changes to procurement specification/purchase order LTA",
+    "causeCode": "Procurement Control LTA",
+    "causeCodeCategory": "Equipment / Material"
+  },
+  {
+    "causeCodeDetail": "Fabricated item did not meet requirements",
+    "causeCode": "Procurement Control LTA",
+    "causeCodeCategory": "Equipment / Material"
+  },
+  {
+    "causeCodeDetail": "Incorrect item received",
+    "causeCode": "Procurement Control LTA",
+    "causeCodeCategory": "Equipment / Material"
+  },
+  {
+    "causeCodeDetail": "Damaged, defective or failed part",
+    "causeCode": "Defective, Failed, or Contaminated",
+    "causeCodeCategory": "Equipment / Material"
+  },
+  {
+    "causeCodeDetail": "Defective weld, braze, soldering joint, crimp, hinge, or other connection",
+    "causeCode": "Defective, Failed, or Contaminated",
+    "causeCodeCategory": "Equipment / Material"
+  },
+  {
+    "causeCodeDetail": "Contaminant",
+    "causeCode": "Defective, Failed, or Contaminated",
+    "causeCodeCategory": "Equipment / Material"
+  },
+  {
+    "causeCodeDetail": "Software failure",
+    "causeCode": "Defective, Failed, or Contaminated",
+    "causeCodeCategory": "Equipment / Material"
+  },
+  {
+    "causeCodeDetail": "Check of work was LTA",
+    "causeCode": "Skill Based Error",
+    "causeCodeCategory": "Individual Human Performance"
+  },
+  {
+    "causeCodeDetail": "Step was omitted due to distraction",
+    "causeCode": "Skill Based Error",
+    "causeCodeCategory": "Individual Human Performance"
+  },
+  {
+    "causeCodeDetail": "Incorrect performance due to mental lapse",
+    "causeCode": "Skill Based Error",
+    "causeCodeCategory": "Individual Human Performance"
+  },
+  {
+    "causeCodeDetail": "Infrequently performed steps were performed incorrectly",
+    "causeCode": "Skill Based Error",
+    "causeCodeCategory": "Individual Human Performance"
+  },
+  {
+    "causeCodeDetail": "Wrong action selected on similarity to other actions",
+    "causeCode": "Skill Based Error",
+    "causeCodeCategory": "Individual Human Performance"
+  },
+  {
+    "causeCodeDetail": "Omission/repetition of steps on assumptions for completion",
+    "causeCode": "Skill Based Error",
+    "causeCodeCategory": "Individual Human Performance"
+  },
+  {
+    "causeCodeDetail": "Signs to stop were ignored and step performed incorrectly",
+    "causeCode": "Rule Based Error",
+    "causeCodeCategory": "Individual Human Performance"
+  },
+  {
+    "causeCodeDetail": "Previous successes in use of rule reinforced continued use of rule",
+    "causeCode": "Rule Based Error",
+    "causeCodeCategory": "Individual Human Performance"
+  },
+  {
+    "causeCodeDetail": "Situation incorrectly identified or represented, resulting in wrong rule used",
+    "causeCode": "Rule Based Error",
+    "causeCodeCategory": "Individual Human Performance"
+  },
+  {
+    "causeCodeDetail": "Attention was given to wrong issues",
+    "causeCode": "Knowledge Based Error",
+    "causeCodeCategory": "Individual Human Performance"
+  },
+  {
+    "causeCodeDetail": "Incorrect assumption that a correlation existed between two or more facts",
+    "causeCode": "Knowledge Based Error",
+    "causeCodeCategory": "Individual Human Performance"
+  },
+  {
+    "causeCodeDetail": "Individual underestimated the problem by using past events as basis",
+    "causeCode": "Knowledge Based Error",
+    "causeCodeCategory": "Individual Human Performance"
+  },
+  {
+    "causeCodeDetail": "Individual's capability to perform work LTA",
+    "causeCode": "Work Practices LTA",
+    "causeCodeCategory": "Individual Human Performance"
+  },
+  {
+    "causeCodeDetail": "Deliberate violation",
+    "causeCode": "Work Practices LTA",
+    "causeCodeCategory": "Individual Human Performance"
+  },
+  {
+    "causeCodeDetail": "Job scoping did not identify special circumstances and/or conditions",
+    "causeCode": "Work Organization and Planning LTA",
+    "causeCodeCategory": "Management / Organization"
+  },
+  {
+    "causeCodeDetail": "Work planning not coordinated with all departments involved in task",
+    "causeCode": "Work Organization and Planning LTA",
+    "causeCodeCategory": "Management / Organization"
+  },
+  {
+    "causeCodeDetail": "Risks/consequences associated with change not adequately reviewed/assessed",
+    "causeCode": "Change Management LTA",
+    "causeCodeCategory": "Management / Organization"
+  },
+  {
+    "causeCodeDetail": "Changes not adequately communicated",
+    "causeCode": "Change Management LTA",
+    "causeCodeCategory": "Management / Organization"
+  },
+  {
+    "causeCodeDetail": "Data/computations wrong/incomplete",
+    "causeCode": "Written Communication Content LTA",
+    "causeCodeCategory": "Communications"
+  },
+  {
+    "causeCodeDetail": "Equipment identification LTA",
+    "causeCode": "Written Communication Content LTA",
+    "causeCodeCategory": "Communications"
+  },
+  {
+    "causeCodeDetail": "Ambiguous instructions/requirements",
+    "causeCode": "Written Communication Content LTA",
+    "causeCodeCategory": "Communications"
+  },
+  {
+    "causeCodeDetail": "Facts wrong/requirements not correct",
+    "causeCode": "Written Communication Content LTA",
+    "causeCodeCategory": "Communications"
+  },
+  {
+    "causeCodeDetail": "Incomplete/situation not covered",
+    "causeCode": "Written Communication Content LTA",
+    "causeCodeCategory": "Communications"
+  },
+  {
+    "causeCodeDetail": "Lack of written communication",
+    "causeCode": "Written Communication Not Used",
+    "causeCodeCategory": "Communications"
+  },
+  {
+    "causeCodeDetail": "Communication between work groups LTA",
+    "causeCode": "Verbal Communications LTA",
+    "causeCodeCategory": "Communications"
+  },
+  {
+    "causeCodeDetail": "Weather or ambient conditions LTA",
+    "causeCode": "External Phenomena",
+    "causeCodeCategory": "Other"
+  },
+  {
+    "causeCodeDetail": "Other natural phenomena LTA",
+    "causeCode": "External Phenomena",
+    "causeCodeCategory": "Other"
+  },
+  {
+    "causeCodeDetail": "No causal sequence established or identified",
+    "causeCode": "Report stops at failure or error mode",
+    "causeCodeCategory": "Information to Determine Cause LTA"
+  },
+  {
+    "causeCodeDetail": "Other entity cited as involved in event",
+    "causeCode": "Other parties involved in event",
+    "causeCodeCategory": "Information to Determine Cause LTA"
+  },
+  {
+    "causeCodeDetail": "Vendor or contractor cited as involved in event",
+    "causeCode": "Other parties involved in event",
+    "causeCodeCategory": "Information to Determine Cause LTA"
+  }
+]
